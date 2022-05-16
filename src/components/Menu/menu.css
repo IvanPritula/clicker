@@ -1,0 +1,13 @@
+.input{
+    margin-bottom: 10px;
+}
+
+.buttton{
+    margin-right: 10px;
+    background: rgb(73, 200, 27);
+    color: black;
+}
+.buttton:hover{
+    background: cornflowerblue;
+    color: wheat;
+}
